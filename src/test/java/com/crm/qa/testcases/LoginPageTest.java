@@ -55,4 +55,11 @@ public class LoginPageTest extends TestBase{
 	
 	
 
+
+@Test
+public void newgitbash() {
+	System.out.println("this is my second method in git bash");
+}
+
+
 }
